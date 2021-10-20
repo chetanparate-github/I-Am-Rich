@@ -12,3 +12,7 @@ After setting up the Xcode i have created my first iOS app named "I Am Rich" usi
 --> How to create app icons and size them for all resolutions.
 
 --> How to run apps on the iOS Simulator as well as sideload to a physical device.
+
+## Screenshots
+
+![I Am Rich](I%20Am%20Rich/images/I_Am_Rich.png)
