@@ -1,5 +1,5 @@
 # I-Am-Rich
-After setting up the Xcode i have created my first iOS app named "I Am Rich" using Interface Builder.
+After setting up the Xcode i have created my first iOS app named "I Am Rich" using Interface Builder. This app simply shows a screen that i have build and design in Main.storyboard (Xcode)
 
 ## What i have learned while building "I Am Rich" application ?
 
